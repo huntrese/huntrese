@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Neural Style Transfer&lpar;NST&rpar;: Creating Artistic Masterpieces with Deep Learning](https://medium.com/softplus-publication/neural-style-transfer-creating-artistic-masterpieces-with-deep-learning-00483b5e6b51?source=rss-faa2df0caf55------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
